@@ -217,6 +217,7 @@ li {
   }
   .flex-welpro {
     display: flex;
+    flex-direction: column;
     gap: 0.1em;
     margin: 0px;
   }
